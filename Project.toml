@@ -1,6 +1,6 @@
 name = "DynarePreprocessor_jll"
 uuid = "23afba7c-24e5-5ee2-bc2c-b42e07f0492a"
-version = "4.8.0+0"
+version = "6.0.0+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
