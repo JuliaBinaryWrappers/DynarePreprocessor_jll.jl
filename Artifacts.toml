@@ -1,288 +1,264 @@
 [[DynarePreprocessor]]
 arch = "aarch64"
-git-tree-sha1 = "493ccdadb0dc155647d851ab4583cc6a84f1b082"
-os = "macos"
-
-    [[DynarePreprocessor.download]]
-    sha256 = "25a57abef0d010b39bdc87290cb223a8bf68b2608d0a012b4cd1a3b1390c8798"
-    url = "https://github.com/JuliaBinaryWrappers/DynarePreprocessor_jll.jl/releases/download/DynarePreprocessor-v6.0.0+0/DynarePreprocessor.v6.0.0.aarch64-apple-darwin.tar.gz"
-[[DynarePreprocessor]]
-arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "21e6e773975e243d05eb1656d2f07fce48b72c14"
+git-tree-sha1 = "d88598c597387fd644db6f98e319c062f0b8bbd8"
 libc = "glibc"
 os = "linux"
 
     [[DynarePreprocessor.download]]
-    sha256 = "f3a8b9457b88e37448ce593e4cfdf719f2e3d7c128f350988838ff611e9a9df3"
-    url = "https://github.com/JuliaBinaryWrappers/DynarePreprocessor_jll.jl/releases/download/DynarePreprocessor-v6.0.0+0/DynarePreprocessor.v6.0.0.aarch64-linux-gnu-cxx03.tar.gz"
+    sha256 = "847396e8a90281a71ef841451543ef39328341d6dc0f1166aeb4b8bbb4ceb807"
+    url = "https://github.com/JuliaBinaryWrappers/DynarePreprocessor_jll.jl/releases/download/DynarePreprocessor-v6.0.2+0/DynarePreprocessor.v6.0.2.aarch64-linux-gnu-cxx03.tar.gz"
 [[DynarePreprocessor]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "2559554bc97eb57f7c3c726ba3e2a9ab86e2dabe"
+git-tree-sha1 = "3bf7dfdaefc9131fbc2e4e55381c8c7065420e52"
 libc = "glibc"
 os = "linux"
 
     [[DynarePreprocessor.download]]
-    sha256 = "89cdc17ad595e82db43c606e0e563132b5e0764079b1c7c8cac24f48373355a0"
-    url = "https://github.com/JuliaBinaryWrappers/DynarePreprocessor_jll.jl/releases/download/DynarePreprocessor-v6.0.0+0/DynarePreprocessor.v6.0.0.aarch64-linux-gnu-cxx11.tar.gz"
+    sha256 = "6fb93b503686930da2255a1ab4668300adbfcc1b7711787f28124b69dadb5f2f"
+    url = "https://github.com/JuliaBinaryWrappers/DynarePreprocessor_jll.jl/releases/download/DynarePreprocessor-v6.0.2+0/DynarePreprocessor.v6.0.2.aarch64-linux-gnu-cxx11.tar.gz"
 [[DynarePreprocessor]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "df8c62a391d0b31dc94ae083bf904185e24b4d18"
+git-tree-sha1 = "0fa67e802e2aa11924bf7bf35eb60fecd304661c"
 libc = "musl"
 os = "linux"
 
     [[DynarePreprocessor.download]]
-    sha256 = "8ff8ae1149270e1aa4e4ef667968257df1a4b944bfa071cfd8f81ef4ff107b2f"
-    url = "https://github.com/JuliaBinaryWrappers/DynarePreprocessor_jll.jl/releases/download/DynarePreprocessor-v6.0.0+0/DynarePreprocessor.v6.0.0.aarch64-linux-musl-cxx03.tar.gz"
+    sha256 = "12005f00394aabdfda7def59cb23c32838eee37ac0d15700d87a4ca82b9c6d5e"
+    url = "https://github.com/JuliaBinaryWrappers/DynarePreprocessor_jll.jl/releases/download/DynarePreprocessor-v6.0.2+0/DynarePreprocessor.v6.0.2.aarch64-linux-musl-cxx03.tar.gz"
 [[DynarePreprocessor]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "4a3333c370ac61067cbc4fa2cb090eb58f79ee38"
+git-tree-sha1 = "dfb67b29cdae8b218711af65219af88c9f536838"
 libc = "musl"
 os = "linux"
 
     [[DynarePreprocessor.download]]
-    sha256 = "a921ba3f52f181d08acad69705977b1a30dc2fc8d1476178b145ab0e2a35e028"
-    url = "https://github.com/JuliaBinaryWrappers/DynarePreprocessor_jll.jl/releases/download/DynarePreprocessor-v6.0.0+0/DynarePreprocessor.v6.0.0.aarch64-linux-musl-cxx11.tar.gz"
+    sha256 = "8f3f3474efd82830a3afd99b896ae4efb10cda6aba80b067d4403bad5f3aa5a2"
+    url = "https://github.com/JuliaBinaryWrappers/DynarePreprocessor_jll.jl/releases/download/DynarePreprocessor-v6.0.2+0/DynarePreprocessor.v6.0.2.aarch64-linux-musl-cxx11.tar.gz"
 [[DynarePreprocessor]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "12a6c192a1e2fb3c56a6ec2ce11a06ad314a645b"
+git-tree-sha1 = "2a76d5a503ace621ec0643d14530ca657c4fe410"
 libc = "glibc"
 os = "linux"
 
     [[DynarePreprocessor.download]]
-    sha256 = "029a014d5097aca789e7c205bf27b73939ddd1ff49bb28848e52d1731cdcd031"
-    url = "https://github.com/JuliaBinaryWrappers/DynarePreprocessor_jll.jl/releases/download/DynarePreprocessor-v6.0.0+0/DynarePreprocessor.v6.0.0.armv6l-linux-gnueabihf-cxx03.tar.gz"
+    sha256 = "7b532f4517f4439466141fb66179970c16c4ffe66a03ffa9c83c67ea70934acb"
+    url = "https://github.com/JuliaBinaryWrappers/DynarePreprocessor_jll.jl/releases/download/DynarePreprocessor-v6.0.2+0/DynarePreprocessor.v6.0.2.armv6l-linux-gnueabihf-cxx03.tar.gz"
 [[DynarePreprocessor]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "37d2cde6a77596b522f711530e48d242b79a9325"
+git-tree-sha1 = "06db4391f3ca3b602573e6a26652562e166c6ce0"
 libc = "glibc"
 os = "linux"
 
     [[DynarePreprocessor.download]]
-    sha256 = "741e244683094b127292208167d5dfc364d39b77ba3e9dadf56ead650a5fbe9e"
-    url = "https://github.com/JuliaBinaryWrappers/DynarePreprocessor_jll.jl/releases/download/DynarePreprocessor-v6.0.0+0/DynarePreprocessor.v6.0.0.armv6l-linux-gnueabihf-cxx11.tar.gz"
+    sha256 = "c07b310785772f97c627409e5983dcfc122639e04e09d345c695bef12772cfe3"
+    url = "https://github.com/JuliaBinaryWrappers/DynarePreprocessor_jll.jl/releases/download/DynarePreprocessor-v6.0.2+0/DynarePreprocessor.v6.0.2.armv6l-linux-gnueabihf-cxx11.tar.gz"
 [[DynarePreprocessor]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "29eb6b03a1556771954e3c1cba24fce1643aae5b"
+git-tree-sha1 = "3d7ba7b4b86c36f3cc3ad1fb7b02dfe71f09f28d"
 libc = "musl"
 os = "linux"
 
     [[DynarePreprocessor.download]]
-    sha256 = "12928f9965da8f9ce0bcbcddda791803732d2a30e8b576fb17c2a58b37de1793"
-    url = "https://github.com/JuliaBinaryWrappers/DynarePreprocessor_jll.jl/releases/download/DynarePreprocessor-v6.0.0+0/DynarePreprocessor.v6.0.0.armv6l-linux-musleabihf-cxx03.tar.gz"
+    sha256 = "189aac6b45663993d3379ad50f168dc8ee0fc9d9f7d37c2e940ebc90fe5b667a"
+    url = "https://github.com/JuliaBinaryWrappers/DynarePreprocessor_jll.jl/releases/download/DynarePreprocessor-v6.0.2+0/DynarePreprocessor.v6.0.2.armv6l-linux-musleabihf-cxx03.tar.gz"
 [[DynarePreprocessor]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "399bbe9590b4e4d674494ea99909632536ce9dc1"
+git-tree-sha1 = "5a6e151a2db7facb54181b8ca06302ea4c97d88e"
 libc = "musl"
 os = "linux"
 
     [[DynarePreprocessor.download]]
-    sha256 = "8c27cac8f0f19a17555bd80151b6f5caafc1e9846addf08a206c5060065a0316"
-    url = "https://github.com/JuliaBinaryWrappers/DynarePreprocessor_jll.jl/releases/download/DynarePreprocessor-v6.0.0+0/DynarePreprocessor.v6.0.0.armv6l-linux-musleabihf-cxx11.tar.gz"
+    sha256 = "4e39e813514bd73977a16289f8ed793045cd0d82eb379005c19874fba0ee4cfc"
+    url = "https://github.com/JuliaBinaryWrappers/DynarePreprocessor_jll.jl/releases/download/DynarePreprocessor-v6.0.2+0/DynarePreprocessor.v6.0.2.armv6l-linux-musleabihf-cxx11.tar.gz"
 [[DynarePreprocessor]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "6149db0b108655874e8d078425c5b0359e97d63e"
+git-tree-sha1 = "a2d8d0eb1aeeb1082d9f253864d1142cee07e9c6"
 libc = "glibc"
 os = "linux"
 
     [[DynarePreprocessor.download]]
-    sha256 = "227332521d43f48d28f7f1904f4effa655040be33962ec4d315b337e1929dafb"
-    url = "https://github.com/JuliaBinaryWrappers/DynarePreprocessor_jll.jl/releases/download/DynarePreprocessor-v6.0.0+0/DynarePreprocessor.v6.0.0.armv7l-linux-gnueabihf-cxx03.tar.gz"
+    sha256 = "4443c167996a2d5513e50c5bc006db7774dded749e4e65e97cadba0e1b4d646d"
+    url = "https://github.com/JuliaBinaryWrappers/DynarePreprocessor_jll.jl/releases/download/DynarePreprocessor-v6.0.2+0/DynarePreprocessor.v6.0.2.armv7l-linux-gnueabihf-cxx03.tar.gz"
 [[DynarePreprocessor]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "9b7c41a2745f04ba48379f5b833e9210b5f4801d"
+git-tree-sha1 = "09b1924008708d27ede8dabfec98c71179c6884a"
 libc = "glibc"
 os = "linux"
 
     [[DynarePreprocessor.download]]
-    sha256 = "d9b9ed14980bbc767adf1a6d40d41fd2b41d39c219667f70db5f47f1f9b11014"
-    url = "https://github.com/JuliaBinaryWrappers/DynarePreprocessor_jll.jl/releases/download/DynarePreprocessor-v6.0.0+0/DynarePreprocessor.v6.0.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
+    sha256 = "274969df566923042ee28b2a5ef3441941360f705b116363cfaeab3e4bf2a01c"
+    url = "https://github.com/JuliaBinaryWrappers/DynarePreprocessor_jll.jl/releases/download/DynarePreprocessor-v6.0.2+0/DynarePreprocessor.v6.0.2.armv7l-linux-gnueabihf-cxx11.tar.gz"
 [[DynarePreprocessor]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "7c9047487d2ecbc46b09dcad0223cb99b2c0a104"
+git-tree-sha1 = "dde424c2c7793fa527cf1d33f89416a7d6534a88"
 libc = "musl"
 os = "linux"
 
     [[DynarePreprocessor.download]]
-    sha256 = "0750b4002c370800354c8dd44fc61bd3925189ba7a13b4895c35af35640125f6"
-    url = "https://github.com/JuliaBinaryWrappers/DynarePreprocessor_jll.jl/releases/download/DynarePreprocessor-v6.0.0+0/DynarePreprocessor.v6.0.0.armv7l-linux-musleabihf-cxx03.tar.gz"
+    sha256 = "2d03a061793bad846e2693464d9ecfb630e5e3b00510d04c1b43fcca624e91a9"
+    url = "https://github.com/JuliaBinaryWrappers/DynarePreprocessor_jll.jl/releases/download/DynarePreprocessor-v6.0.2+0/DynarePreprocessor.v6.0.2.armv7l-linux-musleabihf-cxx03.tar.gz"
 [[DynarePreprocessor]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "6753944463569509b146950d76ee771b04dc2a7f"
+git-tree-sha1 = "2a0af6c789695fb6476eaa377822382e78108881"
 libc = "musl"
 os = "linux"
 
     [[DynarePreprocessor.download]]
-    sha256 = "d54be0e963817111339cf26d9ea7bb61790e1458df955a11e1ac7fed5318afea"
-    url = "https://github.com/JuliaBinaryWrappers/DynarePreprocessor_jll.jl/releases/download/DynarePreprocessor-v6.0.0+0/DynarePreprocessor.v6.0.0.armv7l-linux-musleabihf-cxx11.tar.gz"
+    sha256 = "e83518dd9528be437d8ebfeb87daa21612912679e9a0f8c9a5818fb82aaeea42"
+    url = "https://github.com/JuliaBinaryWrappers/DynarePreprocessor_jll.jl/releases/download/DynarePreprocessor-v6.0.2+0/DynarePreprocessor.v6.0.2.armv7l-linux-musleabihf-cxx11.tar.gz"
 [[DynarePreprocessor]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "a0e1dc2dfc7fc51a1e8c2509c43e881d4d688ff9"
+git-tree-sha1 = "0b81097a5236af5bb807ff41276337e8e8b0acc1"
 libc = "glibc"
 os = "linux"
 
     [[DynarePreprocessor.download]]
-    sha256 = "c50f338d337d3f2373cf15fee832f94abfacde1a802bd0847612c90a53dba081"
-    url = "https://github.com/JuliaBinaryWrappers/DynarePreprocessor_jll.jl/releases/download/DynarePreprocessor-v6.0.0+0/DynarePreprocessor.v6.0.0.i686-linux-gnu-cxx03.tar.gz"
+    sha256 = "c3d88aff7882a6c035990a2e41bdab425287c7a3ff7d48d49c2bdc3b37d72628"
+    url = "https://github.com/JuliaBinaryWrappers/DynarePreprocessor_jll.jl/releases/download/DynarePreprocessor-v6.0.2+0/DynarePreprocessor.v6.0.2.i686-linux-gnu-cxx03.tar.gz"
 [[DynarePreprocessor]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "dc9bdbe0e2c057ed73110f3492e4ffc4831346a9"
+git-tree-sha1 = "e1fa84fde2ec2ecd0f3a5e1fe32bf6b3e99d5126"
 libc = "glibc"
 os = "linux"
 
     [[DynarePreprocessor.download]]
-    sha256 = "a2b0292339b896445f3c31ec279165a285e9180276675a96b44e947eacf3654c"
-    url = "https://github.com/JuliaBinaryWrappers/DynarePreprocessor_jll.jl/releases/download/DynarePreprocessor-v6.0.0+0/DynarePreprocessor.v6.0.0.i686-linux-gnu-cxx11.tar.gz"
+    sha256 = "0c7077929b8ede9a73ceab031c242020f039c98d7aebcd762aa142d75431dd92"
+    url = "https://github.com/JuliaBinaryWrappers/DynarePreprocessor_jll.jl/releases/download/DynarePreprocessor-v6.0.2+0/DynarePreprocessor.v6.0.2.i686-linux-gnu-cxx11.tar.gz"
 [[DynarePreprocessor]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "7e76f1032a9e755a333004035aafa7e1c525e1b1"
+git-tree-sha1 = "ce072df78d98b3a8555dd8002611c76295290335"
 libc = "musl"
 os = "linux"
 
     [[DynarePreprocessor.download]]
-    sha256 = "7eb6d1da06a90f62a4fd6ebc3f53351ef343e99913fabb2c01f91a78f628f8ac"
-    url = "https://github.com/JuliaBinaryWrappers/DynarePreprocessor_jll.jl/releases/download/DynarePreprocessor-v6.0.0+0/DynarePreprocessor.v6.0.0.i686-linux-musl-cxx03.tar.gz"
+    sha256 = "245948fae8eabc8f22da126a2bb628ba25a744cf15aa4c56bbd30ffe836a9d97"
+    url = "https://github.com/JuliaBinaryWrappers/DynarePreprocessor_jll.jl/releases/download/DynarePreprocessor-v6.0.2+0/DynarePreprocessor.v6.0.2.i686-linux-musl-cxx03.tar.gz"
 [[DynarePreprocessor]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "b855987b7d8834592c953d0a71ea3510cbe018d4"
+git-tree-sha1 = "16264a07b6cce5fa7eaecfa8f3a756f387d7638f"
 libc = "musl"
 os = "linux"
 
     [[DynarePreprocessor.download]]
-    sha256 = "f6a0406a1ed2aa9b4c166c483da934ea277a4a2745e2c8f957bab7603b271549"
-    url = "https://github.com/JuliaBinaryWrappers/DynarePreprocessor_jll.jl/releases/download/DynarePreprocessor-v6.0.0+0/DynarePreprocessor.v6.0.0.i686-linux-musl-cxx11.tar.gz"
+    sha256 = "b56bad8bdec258d4cc956f0916f4938cb7b4de19f9eefd0f737e90af37213dbd"
+    url = "https://github.com/JuliaBinaryWrappers/DynarePreprocessor_jll.jl/releases/download/DynarePreprocessor-v6.0.2+0/DynarePreprocessor.v6.0.2.i686-linux-musl-cxx11.tar.gz"
 [[DynarePreprocessor]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "004f29fa60dcb4b43e76abf638f9a43914979eb3"
+git-tree-sha1 = "bc1bf2656eabe81c4b89b729b5d51bcde2cb0f90"
 os = "windows"
 
     [[DynarePreprocessor.download]]
-    sha256 = "739f52240bbdf7e0ac62806c7c3f6b885e68fce3737969a6e08785fcfced310e"
-    url = "https://github.com/JuliaBinaryWrappers/DynarePreprocessor_jll.jl/releases/download/DynarePreprocessor-v6.0.0+0/DynarePreprocessor.v6.0.0.i686-w64-mingw32-cxx03.tar.gz"
+    sha256 = "57c374272d50cf68085d8e495357dca80a8e08f591e6932644cca344108b432c"
+    url = "https://github.com/JuliaBinaryWrappers/DynarePreprocessor_jll.jl/releases/download/DynarePreprocessor-v6.0.2+0/DynarePreprocessor.v6.0.2.i686-w64-mingw32-cxx03.tar.gz"
 [[DynarePreprocessor]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "e04359beaade60f7bdf8706f4bdceb0d8f2bd24b"
+git-tree-sha1 = "273570c53e9a59394c55f3a12e25f10d6bb5462f"
 os = "windows"
 
     [[DynarePreprocessor.download]]
-    sha256 = "e8c9223b739f3e8c71e3600079eb849a6f9c7286c76c8c6ebc4def48ae670192"
-    url = "https://github.com/JuliaBinaryWrappers/DynarePreprocessor_jll.jl/releases/download/DynarePreprocessor-v6.0.0+0/DynarePreprocessor.v6.0.0.i686-w64-mingw32-cxx11.tar.gz"
+    sha256 = "77bc441a46052a6b815c4a9b8efeba41cf84dbfa099df9541664e49e5d15e4e3"
+    url = "https://github.com/JuliaBinaryWrappers/DynarePreprocessor_jll.jl/releases/download/DynarePreprocessor-v6.0.2+0/DynarePreprocessor.v6.0.2.i686-w64-mingw32-cxx11.tar.gz"
 [[DynarePreprocessor]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "644351a6d62c645312ca50d9a5515c13d568d333"
+git-tree-sha1 = "9cd0dd2d8e370fc687729b24239d1c53eb672893"
 libc = "glibc"
 os = "linux"
 
     [[DynarePreprocessor.download]]
-    sha256 = "4f3ce0bfce6fc578f00889556863f470942b5df5f8c0fba77ecfcdbd4d5d1113"
-    url = "https://github.com/JuliaBinaryWrappers/DynarePreprocessor_jll.jl/releases/download/DynarePreprocessor-v6.0.0+0/DynarePreprocessor.v6.0.0.powerpc64le-linux-gnu-cxx03.tar.gz"
+    sha256 = "d9b03c064b813507421c2fcb0d2efb14a8c75f212af1eb751140ae8e391a8d02"
+    url = "https://github.com/JuliaBinaryWrappers/DynarePreprocessor_jll.jl/releases/download/DynarePreprocessor-v6.0.2+0/DynarePreprocessor.v6.0.2.powerpc64le-linux-gnu-cxx03.tar.gz"
 [[DynarePreprocessor]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "d5eaad471b429d68ebcd59482b8fd616a9877d75"
+git-tree-sha1 = "4bb12e3608f9e5befbfa27f72e5737ecfc9a8633"
 libc = "glibc"
 os = "linux"
 
     [[DynarePreprocessor.download]]
-    sha256 = "e42e6161d78c3375f2292554dedcf9ce1157fcff1191cb2f4d6e39f40cc4d40d"
-    url = "https://github.com/JuliaBinaryWrappers/DynarePreprocessor_jll.jl/releases/download/DynarePreprocessor-v6.0.0+0/DynarePreprocessor.v6.0.0.powerpc64le-linux-gnu-cxx11.tar.gz"
-[[DynarePreprocessor]]
-arch = "x86_64"
-git-tree-sha1 = "71dad2a02f76a21775083a3f45224f92120f531c"
-os = "macos"
-
-    [[DynarePreprocessor.download]]
-    sha256 = "e83dfe39396563826a37b0b9eab71bff4a04c3f009c2925d464e5f0bf215076f"
-    url = "https://github.com/JuliaBinaryWrappers/DynarePreprocessor_jll.jl/releases/download/DynarePreprocessor-v6.0.0+0/DynarePreprocessor.v6.0.0.x86_64-apple-darwin.tar.gz"
+    sha256 = "14d64df82684776aa5da308b27e39af7f4fab7ef124632645bb5d1ec1ed4011f"
+    url = "https://github.com/JuliaBinaryWrappers/DynarePreprocessor_jll.jl/releases/download/DynarePreprocessor-v6.0.2+0/DynarePreprocessor.v6.0.2.powerpc64le-linux-gnu-cxx11.tar.gz"
 [[DynarePreprocessor]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "c7fff9c119709c5fa9eb2ed135b4c1086065fc6f"
+git-tree-sha1 = "7f073727fe715e7f1775bce80b02f64fc912b4a7"
 libc = "glibc"
 os = "linux"
 
     [[DynarePreprocessor.download]]
-    sha256 = "b6adccfd49afc8224465a1be8bdb2c8c6c28ee753b758e9108565d2d35c95413"
-    url = "https://github.com/JuliaBinaryWrappers/DynarePreprocessor_jll.jl/releases/download/DynarePreprocessor-v6.0.0+0/DynarePreprocessor.v6.0.0.x86_64-linux-gnu-cxx03.tar.gz"
+    sha256 = "fff8f3356cdcbab3415ef11d03037c674a70de2951e3beadd3b50d1ebfdb159b"
+    url = "https://github.com/JuliaBinaryWrappers/DynarePreprocessor_jll.jl/releases/download/DynarePreprocessor-v6.0.2+0/DynarePreprocessor.v6.0.2.x86_64-linux-gnu-cxx03.tar.gz"
 [[DynarePreprocessor]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "d59ca25a4c32d521fbaf681ccaa1dd6bc7c317ef"
+git-tree-sha1 = "d6478b7b1bab7a526cfc0c76582ec39a7747afd3"
 libc = "glibc"
 os = "linux"
 
     [[DynarePreprocessor.download]]
-    sha256 = "96834c644a24d7eaa14cb33b1dff65dac373aa471248c99de919a0c28d34f998"
-    url = "https://github.com/JuliaBinaryWrappers/DynarePreprocessor_jll.jl/releases/download/DynarePreprocessor-v6.0.0+0/DynarePreprocessor.v6.0.0.x86_64-linux-gnu-cxx11.tar.gz"
+    sha256 = "56b01a00127b7d374ff1975818eac1b09610243ba6abd06e9517e9eb487db4c8"
+    url = "https://github.com/JuliaBinaryWrappers/DynarePreprocessor_jll.jl/releases/download/DynarePreprocessor-v6.0.2+0/DynarePreprocessor.v6.0.2.x86_64-linux-gnu-cxx11.tar.gz"
 [[DynarePreprocessor]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "a150a572c437d2a78a9a97407f2d780cfd94cd9c"
+git-tree-sha1 = "27668f612ae340484c64d3df2c062003cc99645b"
 libc = "musl"
 os = "linux"
 
     [[DynarePreprocessor.download]]
-    sha256 = "deb3fbbba77cfb05c32609c468672cb1ccbf2f61b8c24005a058046e4f9f6e26"
-    url = "https://github.com/JuliaBinaryWrappers/DynarePreprocessor_jll.jl/releases/download/DynarePreprocessor-v6.0.0+0/DynarePreprocessor.v6.0.0.x86_64-linux-musl-cxx03.tar.gz"
+    sha256 = "f2e2c2a64dd7b11e0d17c9c498e0b5389a470341dbde506b06a994d4e57f335a"
+    url = "https://github.com/JuliaBinaryWrappers/DynarePreprocessor_jll.jl/releases/download/DynarePreprocessor-v6.0.2+0/DynarePreprocessor.v6.0.2.x86_64-linux-musl-cxx03.tar.gz"
 [[DynarePreprocessor]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "aa952c81caad0c95f41756f818eb926889db01c3"
+git-tree-sha1 = "677d9260d5d36ce4585f4c248ef6dfe6d63a5639"
 libc = "musl"
 os = "linux"
 
     [[DynarePreprocessor.download]]
-    sha256 = "8336f06ef016c5dedcdc4bfa5163073ab8923da6eda047b7d81293971e0a55e8"
-    url = "https://github.com/JuliaBinaryWrappers/DynarePreprocessor_jll.jl/releases/download/DynarePreprocessor-v6.0.0+0/DynarePreprocessor.v6.0.0.x86_64-linux-musl-cxx11.tar.gz"
-[[DynarePreprocessor]]
-arch = "x86_64"
-git-tree-sha1 = "65b2ebfe424f8b2938154ec20024f807e7d11b93"
-os = "freebsd"
-
-    [[DynarePreprocessor.download]]
-    sha256 = "2594eb5836e62a31599b1ee9ba7767ffa700a60d1b764c057a63d23c9293ef92"
-    url = "https://github.com/JuliaBinaryWrappers/DynarePreprocessor_jll.jl/releases/download/DynarePreprocessor-v6.0.0+0/DynarePreprocessor.v6.0.0.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "32acd23a5fd58c6e481bce0f58c79a9d5d810d601f8124472fcfd0ad84be0afb"
+    url = "https://github.com/JuliaBinaryWrappers/DynarePreprocessor_jll.jl/releases/download/DynarePreprocessor-v6.0.2+0/DynarePreprocessor.v6.0.2.x86_64-linux-musl-cxx11.tar.gz"
 [[DynarePreprocessor]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "eac559c75adc3a72590115fa42f041132df00e14"
+git-tree-sha1 = "ede420b02ee36242d84e80c54f47c2ca4decade2"
 os = "windows"
 
     [[DynarePreprocessor.download]]
-    sha256 = "174b036f28ba63172c2bdff74f1350bf62ac7ed29da6cb0f3a9ab218fd1ce0d5"
-    url = "https://github.com/JuliaBinaryWrappers/DynarePreprocessor_jll.jl/releases/download/DynarePreprocessor-v6.0.0+0/DynarePreprocessor.v6.0.0.x86_64-w64-mingw32-cxx03.tar.gz"
+    sha256 = "fdb6a66bdc886569939e67dae1d1f42e04ae61d4f90fe9364d874fe8a12233ce"
+    url = "https://github.com/JuliaBinaryWrappers/DynarePreprocessor_jll.jl/releases/download/DynarePreprocessor-v6.0.2+0/DynarePreprocessor.v6.0.2.x86_64-w64-mingw32-cxx03.tar.gz"
 [[DynarePreprocessor]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "3421e9acc39106574ae44d584a69f697e268f139"
+git-tree-sha1 = "b7a6beadee8cd80666f64747e7629ab5c38e1ec6"
 os = "windows"
 
     [[DynarePreprocessor.download]]
-    sha256 = "99ee3a98a3e3f43c785d9f80e83fe0991fd62582e9a40a79a9fb6191c73fe900"
-    url = "https://github.com/JuliaBinaryWrappers/DynarePreprocessor_jll.jl/releases/download/DynarePreprocessor-v6.0.0+0/DynarePreprocessor.v6.0.0.x86_64-w64-mingw32-cxx11.tar.gz"
+    sha256 = "01e5c3f8cc28926864fe909ffddabea5c8d81d8f02af8f3db56e8f3150ada728"
+    url = "https://github.com/JuliaBinaryWrappers/DynarePreprocessor_jll.jl/releases/download/DynarePreprocessor-v6.0.2+0/DynarePreprocessor.v6.0.2.x86_64-w64-mingw32-cxx11.tar.gz"
